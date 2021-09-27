@@ -1,2 +1,2 @@
 # IMCprojeto
-<a href="https://alexandrerodrigues2311.github.io/Projeto1-IMC/"><img src=".\imc.png" width="250px"></a>
+<a href="https://arthurbrasil.github.io/IMCprojeto/"><img src=".\projeto_imc.png" width="250px"></a>
